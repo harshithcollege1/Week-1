@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class quadratic {
     public static void main(String args[]){
         int a,b,c;
